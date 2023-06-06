@@ -1,0 +1,49 @@
+@options
+@packages
+-classpath
+'/home/nguyenduc/.m2/repository/com/toedter/jcalendar/1.2.2/jcalendar-1.2.2.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'/home/nguyenduc/NetBeansProjects/QuanLyDiemTruongTHPT/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/nguyenduc/NetBeansProjects/QuanLyDiemTruongTHPT/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'QuanLyDiemTruongTHPT 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'QuanLyDiemTruongTHPT 1.0-SNAPSHOT API'
+com.mycompany.quanlydiemtruongthpt
+com.mycompany.quanlydiemtruongthpt.UI.QuanLy
+com.mycompany.quanlydiemtruongthpt.UI.Auth
+/home/nguyenduc/.m2/repository/com/toedter/jcalendar/1.2.2/jcalendar-1.2.2.jar = 1685096488418
+/home/nguyenduc/NetBeansProjects/QuanLyDiemTruongTHPT/src/main/java = 1685030832303
+/home/nguyenduc/NetBeansProjects/QuanLyDiemTruongTHPT/target/site/apidocs/jquery-ui.overrides.css = 1685156416488
+/home/nguyenduc/NetBeansProjects/QuanLyDiemTruongTHPT/target/site/apidocs/overview-tree.html = 1685156416424
+/home/nguyenduc/NetBeansProjects/QuanLyDiemTruongTHPT/target/site/apidocs/tag-search-index.js = 1685156416448
+/home/nguyenduc/NetBeansProjects/QuanLyDiemTruongTHPT/target/site/apidocs/overview-summary.html = 1685156416472
+/home/nguyenduc/NetBeansProjects/QuanLyDiemTruongTHPT/target/site/apidocs/stylesheet.css = 1685156416480
+/home/nguyenduc/NetBeansProjects/QuanLyDiemTruongTHPT/target/site/apidocs/package-search-index.js = 1685156416448
+/home/nguyenduc/NetBeansProjects/QuanLyDiemTruongTHPT/target/site/apidocs/module-search-index.js = 1685156416444
+/home/nguyenduc/NetBeansProjects/QuanLyDiemTruongTHPT/target/site/apidocs/search.js = 1685156416484
+/home/nguyenduc/NetBeansProjects/QuanLyDiemTruongTHPT/target/site/apidocs/member-search-index.js = 1685156416448
+/home/nguyenduc/NetBeansProjects/QuanLyDiemTruongTHPT/target/site/apidocs/help-doc.html = 1685156416480
+/home/nguyenduc/NetBeansProjects/QuanLyDiemTruongTHPT/target/site/apidocs/serialized-form.html = 1685156416392
+/home/nguyenduc/NetBeansProjects/QuanLyDiemTruongTHPT/target/site/apidocs/allclasses-index.html = 1685156416444
+/home/nguyenduc/NetBeansProjects/QuanLyDiemTruongTHPT/target/site/apidocs/element-list = 1685156416308
+/home/nguyenduc/NetBeansProjects/QuanLyDiemTruongTHPT/target/site/apidocs/index.html = 1685156416428
+/home/nguyenduc/NetBeansProjects/QuanLyDiemTruongTHPT/target/site/apidocs/script.js = 1685156416480
+/home/nguyenduc/NetBeansProjects/QuanLyDiemTruongTHPT/target/site/apidocs/type-search-index.js = 1685156416448
+/home/nguyenduc/NetBeansProjects/QuanLyDiemTruongTHPT/target/site/apidocs/allpackages-index.html = 1685156416444
+/home/nguyenduc/NetBeansProjects/QuanLyDiemTruongTHPT/target/site/apidocs/index-all.html = 1685156416472
